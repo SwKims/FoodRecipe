@@ -10,7 +10,11 @@ import kotlinx.coroutines.flow.Flow
  * Created by KSW on 2021-02-02
  */
 
-// Data Access Object
+/**
+    실제로 DB에 접근하는 객체
+    @Dao 어노테이션을 가진 interface
+    Data Access Object
+ */
 
 @Dao
 interface RecipesDAO {
@@ -19,6 +23,6 @@ interface RecipesDAO {
     suspend fun insertRecipes(recipesEntity: RecipesEntity)
 
     @Query("SELECT * FROM recipes_table ORDER BY id ASC")
-    fun readRecipes() : Flow<List<RecipesEntity>>
+    fun readRecipes(): Flow<List<RecipesEntity>>
 
 }
