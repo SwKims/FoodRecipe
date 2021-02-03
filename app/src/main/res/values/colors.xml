@@ -39,5 +39,8 @@
     <color name="bottomNavItemColor">@color/darkGray</color>
     <color name="bottomNavCheckedItemColor">@color/colorPrimary</color>
 
+    // detail view style
+    <color name="actionBarBackgroundColor">@color/colorPrimary</color>
+
 
 </resources>
