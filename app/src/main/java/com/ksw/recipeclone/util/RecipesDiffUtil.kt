@@ -1,7 +1,6 @@
 package com.ksw.recipeclone.util
 
 import androidx.recyclerview.widget.DiffUtil
-import com.ksw.recipeclone.models.Result
 
 /**
  * Created by KSW on 2021-02-01

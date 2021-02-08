@@ -3,6 +3,8 @@ package com.ksw.recipeclone.data.database
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
+import com.ksw.recipeclone.data.database.entities.FavoritesEntity
+import com.ksw.recipeclone.data.database.entities.RecipesEntity
 
 /**
  * Created by KSW on 2021-02-02
@@ -17,7 +19,7 @@ import androidx.room.TypeConverters
 
 
 @Database(
-    entities = [RecipesEntity::class],
+    entities = [RecipesEntity::class, FavoritesEntity::class],
     version = 1,
     exportSchema = false
 )
