@@ -1,7 +1,8 @@
 package com.ksw.recipeclone.data
 
 import com.ksw.recipeclone.data.database.RecipesDAO
-import com.ksw.recipeclone.data.database.RecipesEntity
+import com.ksw.recipeclone.data.database.entities.FavoritesEntity
+import com.ksw.recipeclone.data.database.entities.RecipesEntity
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 
@@ -13,11 +14,27 @@ import javax.inject.Inject
 
 class LocalDataSource @Inject constructor(
     private val recipesDao: RecipesDAO
-){
-    fun readDatabase() : Flow<List<RecipesEntity>> {
+) {
+    fun readRecipes(): Flow<List<RecipesEntity>> {
         return recipesDao.readRecipes()
     }
+
     suspend fun insertRecipes(recipesEntity: RecipesEntity) {
         recipesDao.insertRecipes(recipesEntity)
     }
+
+    // favorite
+    fun readFavoriteRecipes(): Flow<List<FavoritesEntity>> {
+        return recipesDao.readFavoriteRecipes()
+    }
+    suspend fun insertFavoriteRecipes(favoritesEntity: FavoritesEntity) {
+        recipesDao.insertFavoriteRecipe(favoritesEntity)
+    }
+    suspend fun deleteFavoriteRecipe(favoritesEntity: FavoritesEntity) {
+        recipesDao.deleteFavoriteRecipe(favoritesEntity)
+    }
+    suspend fun deleteAllFavoriteRecipes() {
+        recipesDao.deleteAllFavoriteRecipe()
+    }
+
 }
