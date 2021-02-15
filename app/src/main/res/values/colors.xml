@@ -24,6 +24,7 @@
 
     <color name="strokeColor">@color/lightMediumGray</color>
     <color name="cardBackgroundColor">@color/white</color>
+    <color name="cardBackgroundColorLight">#5F03DF</color>
     <color name="titleColor">@color/darker</color>
     <color name="descriptionColor">@color/darkGray</color>
     <color name="placeholderColor">@color/mediumGray</color>
@@ -41,6 +42,9 @@
 
     // detail view style
     <color name="actionBarBackgroundColor">@color/colorPrimary</color>
+
+    // favorite
+    <color name="contextualColor">@color/dark</color>
 
 
 </resources>
