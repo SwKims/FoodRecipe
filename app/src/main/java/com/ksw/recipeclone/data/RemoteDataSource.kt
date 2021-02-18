@@ -1,6 +1,7 @@
 package com.ksw.recipeclone.data
 
 import com.ksw.recipeclone.data.network.FoodRecipesApi
+import com.ksw.recipeclone.models.FoodJoke
 import com.ksw.recipeclone.models.FoodRecipe
 import retrofit2.Response
 import javax.inject.Inject
@@ -21,6 +22,11 @@ class RemoteDataSource @Inject constructor(
     // search add
     suspend fun searchRecipes(searchQuery: Map<String, String>): Response<FoodRecipe> {
         return foodRecipesApi.searchRecipes(searchQuery)
+    }
+
+    // random add
+    suspend fun randomRecipes(apiKey: String): Response<FoodJoke> {
+        return foodRecipesApi.getFoodJoke(apiKey)
     }
 
 }

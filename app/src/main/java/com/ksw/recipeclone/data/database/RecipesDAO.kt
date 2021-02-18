@@ -2,6 +2,7 @@ package com.ksw.recipeclone.data.database
 
 import androidx.room.*
 import com.ksw.recipeclone.data.database.entities.FavoritesEntity
+import com.ksw.recipeclone.data.database.entities.FoodJokeEntity
 import com.ksw.recipeclone.data.database.entities.RecipesEntity
 import kotlinx.coroutines.flow.Flow
 
@@ -36,5 +37,12 @@ interface RecipesDAO {
 
     @Query("DELETE FROM favorite_recipes_table")
     suspend fun deleteAllFavoriteRecipe()
+
+    // joke
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertFoodJoke(foodJokeEntity: FoodJokeEntity)
+
+    @Query("SELECT * FROM food_joke_table ORDER BY id ASC")
+    fun readFoodJoke(): Flow<List<FoodJokeEntity>>
 
 }

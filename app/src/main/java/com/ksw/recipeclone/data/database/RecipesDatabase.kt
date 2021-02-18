@@ -4,6 +4,7 @@ import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 import com.ksw.recipeclone.data.database.entities.FavoritesEntity
+import com.ksw.recipeclone.data.database.entities.FoodJokeEntity
 import com.ksw.recipeclone.data.database.entities.RecipesEntity
 
 /**
@@ -19,7 +20,7 @@ import com.ksw.recipeclone.data.database.entities.RecipesEntity
 
 
 @Database(
-    entities = [RecipesEntity::class, FavoritesEntity::class],
+    entities = [RecipesEntity::class, FavoritesEntity::class, FoodJokeEntity::class],
     version = 1,
     exportSchema = false
 )
