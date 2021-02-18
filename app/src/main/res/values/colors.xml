@@ -19,11 +19,12 @@
     <color name="colorPrimaryDark">#5502C8</color>
     <color name="colorAccent">#9D46FF</color>
 
-    <color name="lightGray">#F9F9F9</color>
+    <color name="lightGray">#CDC7C7</color>
     <color name="dark">#313C44</color>
 
     <color name="strokeColor">@color/lightMediumGray</color>
     <color name="cardBackgroundColor">@color/white</color>
+    <color name="cardBackgroundColorLight">#5F03DF</color>
     <color name="titleColor">@color/darker</color>
     <color name="descriptionColor">@color/darkGray</color>
     <color name="placeholderColor">@color/mediumGray</color>
@@ -38,6 +39,12 @@
     <color name="bottomNavBackground">@color/white</color>
     <color name="bottomNavItemColor">@color/darkGray</color>
     <color name="bottomNavCheckedItemColor">@color/colorPrimary</color>
+
+    // detail view style
+    <color name="actionBarBackgroundColor">@color/colorPrimary</color>
+
+    // favorite
+    <color name="contextualColor">@color/dark</color>
 
 
 </resources>

@@ -1,8 +1,10 @@
 package com.ksw.recipeclone.data.network
 
+import com.ksw.recipeclone.models.FoodJoke
 import com.ksw.recipeclone.models.FoodRecipe
 import retrofit2.Response
 import retrofit2.http.GET
+import retrofit2.http.Query
 import retrofit2.http.QueryMap
 
 /**
@@ -15,4 +17,17 @@ interface FoodRecipesApi {
     suspend fun getRecipes(
         @QueryMap queries : Map<String, String>
     ) : Response<FoodRecipe>
+
+    // search add.
+    @GET("/recipes/complexSearch")
+    suspend fun searchRecipes(
+        @QueryMap searchQuery : Map<String, String>
+    ) : Response<FoodRecipe>
+
+    // food joke add.
+    @GET("food/jokes/random")
+    suspend fun getFoodJoke(
+        @Query("apiKey") apiKey: String
+    ) : Response<FoodJoke>
+
 }

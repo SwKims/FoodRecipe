@@ -1,4 +1,4 @@
-package com.ksw.recipeclone.data.database
+package com.ksw.recipeclone.data.database.entities
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
