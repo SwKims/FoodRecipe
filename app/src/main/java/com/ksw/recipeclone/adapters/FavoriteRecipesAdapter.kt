@@ -98,7 +98,7 @@ class FavoriteRecipesAdapter(
             applyActionModeTitle()
         } else {
             selectedRecipes.add(currentRecipes)
-            changeRecipeStyle(holder, R.color.cardBackgroundColorLight, R.color.colorPrimary)
+            changeRecipeStyle(holder, R.color.cardBackgroundLightColor, R.color.colorPrimary)
             applyActionModeTitle()
         }
     }
