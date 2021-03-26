@@ -35,19 +35,15 @@
 </p>
 
 
-
-
-
-
-
-
-
 #### 시즌 에피소드  화면  /  시즌 에피소드 리스트 화면  /  시즌 에피소드 출연진 화면   
 <p float="center">
-<img src="https://user-images.githubusercontent.com/71965874/112274420-d11f5380-8cc1-11eb-82c4-8f2a87641806.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112274421-d11f5380-8cc1-11eb-85f7-3d12ab663966.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112274414-cfee2680-8cc1-11eb-87bb-5fd216780d0e.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605839-13c86380-8e5b-11eb-82bd-74825289e4ec.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605842-14f99080-8e5b-11eb-9fb7-4321f2ab42df.jpg" width="30%" height="20%">
 </p>
+
+
+
+
 
 #### 영화 Award 화면  /  AwardList 화면   
 <p float="center">
