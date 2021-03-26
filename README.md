@@ -15,9 +15,8 @@
 ## * ScreenShot   
 #### 영화 리스트 화면 (Popular, Top Rated, Upcoming)  /  영화 선택 화면 (Detail) /  영화 소개 화면  
 <p float="center">
-<img src="https://user-images.githubusercontent.com/71965874/112262370-e5a72000-8cb0-11eb-8ac5-d70416565d83.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112262372-e6d84d00-8cb0-11eb-9b4c-0683291f7087.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112262378-e770e380-8cb0-11eb-99a8-fe35d46f5f2b.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605121-4aea4500-8e5a-11eb-8447-5fd86dda85e6.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605126-4c1b7200-8e5a-11eb-907b-e2596e5eafae.jpg" width="30%" height="20%">
 </p>   
 
 #### 트레일러 실행 화면  /  영화 출연진 화면 (Cast) /  영화 출연진 화면 (Crew)   
