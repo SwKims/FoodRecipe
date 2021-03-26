@@ -17,13 +17,15 @@
 <p float="center">
 <img src="https://user-images.githubusercontent.com/71965874/112605121-4aea4500-8e5a-11eb-8447-5fd86dda85e6.jpg" width="30%" height="20%">
 <img src="https://user-images.githubusercontent.com/71965874/112605126-4c1b7200-8e5a-11eb-907b-e2596e5eafae.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605307-81c05b00-8e5a-11eb-8760-971e318cbd4e.jpg" width="30%" height="20%">
 </p>   
+
 
 #### 트레일러 실행 화면  /  영화 출연진 화면 (Cast) /  영화 출연진 화면 (Crew)   
 <p float="center">
-<img src="https://user-images.githubusercontent.com/71965874/112265635-25bcd180-8cb6-11eb-9a35-b01b0764fe46.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112265629-248ba480-8cb6-11eb-90cd-56b8e0f92fc6.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112265632-25243b00-8cb6-11eb-8ef1-a0fb205ef957.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605395-9ac90c00-8e5a-11eb-9343-2f8d9b7c4afb.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605398-9bfa3900-8e5a-11eb-8256-4d049a371df4.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605401-9c92cf80-8e5a-11eb-8b8f-5a0ccddc6ae7.jpg" width="30%" height="20%">
 </p>
 
 #### 영화배우 상세 화면  /  영화배우 다른 영화 출연 화면 /  영화배우 다른 티비 (드라마, 예능) 출연 화면   
