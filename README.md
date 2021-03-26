@@ -30,24 +30,17 @@
 
 #### 영화배우 상세 화면  /  영화배우 다른 영화 출연 화면 /  영화배우 다른 티비 (드라마, 예능) 출연 화면   
 <p float="center">
-<img src="https://user-images.githubusercontent.com/71965874/112269961-6e778900-8cbc-11eb-948d-dbe65c9ca347.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112269965-6f101f80-8cbc-11eb-8a2a-6190145de6cb.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112269952-6cadc580-8cbc-11eb-8959-dd0058eb99c5.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605713-f1364a80-8e5a-11eb-8834-b6a348e999cf.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605710-f0051d80-8e5a-11eb-8157-f8e3e6120ebb.jpg" width="30%" height="20%">
 </p>
 
-#### 드라마, 예능 리스트 화면 (Now Playing, On Air Today, Popular)  /  드라마, 예능 소개 화면 (Detail)   
-<p float="center">
-<img src="https://user-images.githubusercontent.com/71965874/112272584-c06dde00-8cbf-11eb-9836-6f16f04d8e22.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112272587-c19f0b00-8cbf-11eb-933d-92533f43258f.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112272588-c237a180-8cbf-11eb-9169-76cd813f04e9.jpg" width="30%" height="20%">
-</p>
 
-#### 드라마, 예능 출연진 화면 (Cast)  /  드라마, 예능 출연진 화면 (Crew) /  시즌 리스트 화면   
-<p float="center">
-<img src="https://user-images.githubusercontent.com/71965874/112273521-c912e400-8cc0-11eb-9a43-2bff34a3e136.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112273529-ca441100-8cc0-11eb-8dcd-044b0d29605d.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112273536-cadca780-8cc0-11eb-97de-f80f438f3809.jpg" width="30%" height="20%">
-</p>
+
+
+
+
+
+
 
 #### 시즌 에피소드  화면  /  시즌 에피소드 리스트 화면  /  시즌 에피소드 출연진 화면   
 <p float="center">
