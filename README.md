@@ -43,18 +43,9 @@
 
 
 
-
-
 #### 영화 Award 화면  /  AwardList 화면   
 <p float="center">
-<img src="https://user-images.githubusercontent.com/71965874/112275935-7c7cd800-8cc3-11eb-94dd-f60163ea7bf3.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112275943-7e469b80-8cc3-11eb-9367-d1221acaa4b7.jpg" width="30%" height="20%">
-</p>
-
-#### 영화 검색 화면(영어)  /  영화 검색 화면(한글)   
-<p float="center">
-<img src="https://user-images.githubusercontent.com/71965874/112276206-d41b4380-8cc3-11eb-98bc-fff20df0404a.jpg" width="30%" height="20%">
-<img src="https://user-images.githubusercontent.com/71965874/112276215-d54c7080-8cc3-11eb-87ea-03b44bff4acc.jpg" width="30%" height="20%">
+<img src="https://user-images.githubusercontent.com/71965874/112605990-38bcd680-8e5b-11eb-99c4-60abb00eda11.jpg" width="30%" height="20%">
 </p>
 
 
