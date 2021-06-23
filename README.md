@@ -1,4 +1,4 @@
-# FoodRecipe(EN)
+# FoodRecipe
 
 ### * Libraries
   
@@ -6,8 +6,6 @@
 - [Retrofit](https://github.com/square/retrofit)    
 - [ROOM Database](https://developer.android.com/topic/libraries/architecture/room?hl=ko)
 - [Databinding](https://developer.android.com/topic/libraries/data-binding?hl=ko)
-
-
 
 
 
